@@ -1,0 +1,9 @@
+http://rss.cbc.ca/lineup/topstories.xml
+http://rss.cbc.ca/lineup/world.xml
+http://rss.cbc.ca/lineup/canada.xml
+http://rss.cbc.ca/lineup/politics.xml
+http://rss.cbc.ca/lineup/business.xml
+http://rss.cbc.ca/lineup/health.xml
+http://rss.cbc.ca/lineup/arts.xml
+http://rss.cbc.ca/lineup/technology.xml
+http://rss.cbc.ca/lineup/offbeat.xml
